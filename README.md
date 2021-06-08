@@ -34,3 +34,6 @@ $ npm install
 To address all issues (including breaking changes), run:
 $ npm audit fix --force
 
+# when using latest version and something not working
+$ npm install --legacy-peer-deps
+
